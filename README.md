@@ -9,7 +9,7 @@ Predictive analysis using Yelp user dataset
 ### Tools
 * SQL 
 * Python
-    * Scikit Learn
+    * Scikit-learn
     * Pandas
     * NumPy
     * Matplotlib
