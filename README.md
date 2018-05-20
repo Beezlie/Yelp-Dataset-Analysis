@@ -1,5 +1,5 @@
 # Digging Deeper 
-Predictive analysis using Yelp user dataset
+Predictive analysis using Yelp user dataset. Refer to yelp_results_analysis.pdf for detailed analysis of results 
 
 ## Project: Yelp Dataset Analysis
 * Extracted relevant data using SQL and cleaned missing/ duplicate entries
